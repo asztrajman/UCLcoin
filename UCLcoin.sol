@@ -1,7 +1,5 @@
 //run on https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.21+commit.dfe3193c.js
 
-//minting?
-
 pragma solidity ^0.4.13;
 
 contract Uclcoin {
